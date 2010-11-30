@@ -1,0 +1,7 @@
+## Interface: 40000
+## Title: kAutoQuest
+## Author: Kulldam
+## Notes: Auto-accepts quests and singular-rewards, shift to suppress.
+## Version: 1.024
+kAutoQuest.lua
+
