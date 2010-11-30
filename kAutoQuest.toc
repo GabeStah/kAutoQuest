@@ -1,5 +1,5 @@
 ## Interface: 40000
-## Title: kAutoQuest
+## Title: kAutoQuest |cffb5a5d5[1.024]|r
 ## Author: Kulldam
 ## Notes: Auto-accepts quests and singular-rewards, shift to suppress.
 ## Version: 1.024
