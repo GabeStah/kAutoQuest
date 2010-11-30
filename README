@@ -1,5 +1,5 @@
 INSTALL:
-Download the latest zip or tarball archive using the Downloads button above, then unzip into your World of Warcraft/Interface/Addons folder.  You **must** then rename that default folder name from 'GabeStah-kAutoQuest-#######' to 'kAutoQuest'.  Failure to do so will cause World of Warcraft to not load the addon.
+Download the latest zip archive using the Downloads button above, then unzip into your World of Warcraft/Interface/Addons folder.
 
 USAGE:
 kAutoQuest is a simple World of Warcraft addon that automatically accepts quests when opening dialog boxes with quest NPCs, and similarly will auto-accept quest rewards (when singular rewards are available).  If multiple rewards are available, kAutoQuest will wait for the user to select a reward manually.
