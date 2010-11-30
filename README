@@ -1,0 +1,4 @@
+kAutoQuest is a simple World of Warcraft addon that automatically accepts quests when opening dialog boxes with quest NPCs, and similarly will auto-accept quest rewards (when singular rewards are available).  If multiple rewards are available, kAutoQuest will wait for the user to select a reward manually.
+
+Temporary Suppression:
+To temporarily disable the auto-accept features of kAutoQuest, simply hold the "Shift" key while talking to any quest dialog NPC.
